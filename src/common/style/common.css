@@ -1,0 +1,70 @@
+.section-wrapper{
+	min-height: 100%;
+	background-color: #fff;
+	box-sizing: border-box;
+	padding: 16px;
+}
+.table-btn{
+	color: #409EFF;
+}
+.width-150{
+	width: 150px;
+}
+.width-200{
+	width: 200px;
+}
+.text-center{
+	text-align: center;
+}
+.text-left{
+	text-align: left;
+}
+.text-right{
+	text-align: right;
+}
+
+.pull-left{
+	float: left;
+}
+.pull-right{
+	float: right;
+}
+.mt-16{
+	margin-top: 16px;
+}
+.mb-16{
+	margin-bottom: 16px;
+}
+.ml-16{
+	margin-left: 16px;
+}
+.mr-16{
+	margin-right: 16px;
+}
+
+
+
+.el-step.is-horizontal .el-step__line {
+  top: 25px;
+}
+.el-step__icon.is-text {
+  width: 50px;
+  height: 50px;
+}
+.el-step.is-center .el-step__description{
+	margin-top: 10px;
+}
+
+.add-form .el-dialog, .edit-form .el-dialog{
+	width: 400px;
+}
+.edit-dialog .el-dialog{
+	width: 450px;
+}
+.relation .el-dialog{
+	width: 60%;
+}
+.parts-count-input input,.goods-num-input input{
+	text-align: center;
+	padding: 0;
+}
